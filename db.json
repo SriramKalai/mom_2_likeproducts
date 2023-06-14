@@ -1,5 +1,40 @@
 {
-   "mobile":[
-        {"header":["ALL","Tablets","Phones","Headphones","Camera","Laptop","Watch","Tablets","Phones","Headphones","Camera","Laptop"]}
+   "like":[
+        {
+            "like_id":1,
+            "product_name":"GoPro HERO6 4K",
+            "price":"$998.00",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
+            
+        },
+        {
+            "like_id":2,
+            "product_name":"GoPro HERO6 4K",
+            "price":"$998.00",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
+            
+        },
+        {
+            "like_id":3,
+            "product_name":"GoPro HERO6 4K",
+            "price":"$998.00",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
+            
+        },
+        {
+            "like_id":4,
+            "product_name":"GoPro HERO6 4K",
+            "price":"$998.00",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
+            
+        },
+        {
+            "like_id":5,
+            "product_name":"GoPro HERO6 4K",
+            "price":"$998.00",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
+            
+        }
+
     ]
 }
